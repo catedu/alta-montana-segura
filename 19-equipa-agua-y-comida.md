@@ -6,7 +6,7 @@
 
 El consumo insuficiente de agua provoca **deshidratación**. El consumo insuficiente de alimentos provoca **fatiga y debilidad**.
 
-Por norma, **hay que** **beber antes de tener sed y c****omer en cuanto el hambre aparezca**, mejor si son pocas cantidades y varias veces.
+Por norma, **hay que** **beber antes de tener sed y comer en cuanto el hambre aparezca**, mejor si son pocas cantidades y varias veces.
 
 Como **montañeros**, debéis tener en cuenta que muchos de los rescates tienen como causa principal el agotamiento y la deshidratación, algo que en parte se puede evitar si se bebe y come adecuadamente.
 

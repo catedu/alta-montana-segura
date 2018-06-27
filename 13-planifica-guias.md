@@ -1,6 +1,6 @@
 # Planifica: ¿Contratar a un guía? (13 de 34)
 
-![Guias](img/guias+de+monta%C3%B1a.jpg)
+![Guias](img/guias-de-montana.jpg)
 
 Normalmente un montañero que piensa realizar excursiones de alta montaña será una persona con cierta experiencia que se considera capaz de realizar la actividad que se ha propuesto.  
 

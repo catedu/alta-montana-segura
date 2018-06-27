@@ -1,7 +1,5 @@
 # Planifica: Calcula los horarios MIDE (7 de 34)
 
-![MIDE](img/herramientamide.JPG)
-
 El MIDE también sirve para el cálculo de horarios en recorridos de alta montaña.
 
 Os recordamos cómo se calculan los **tiempos MIDE**:  

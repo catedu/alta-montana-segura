@@ -10,5 +10,5 @@ El **piolet** es una herramienta de montaña que permite **auto detener una caí
 
 Y aún así, **no basta con llevarlo para ser un montañero seguro**, lo importante es... **¡Saber utilizarlo, claro!** Para aprender a usar bien el piolet deberá tenerse formación y haber practicado en un lugar seguro. Para formarse puede recurrirse a los **cursillos** de los clubes de montaña o a los **guía de montaña.**
 
-Los **crampones** son unos dispositivos metálicos y puntiagudos que se acoplan a las **botas** y **mejoran la adherencia en terrenos nevados o helados**. Forma parte del equipo personal: **un par de crampones por cada miembro del grupo.** Como el piolet, no basta con llevarlos para ser un montañero seguro, **lo importante es... **¡Saber utilizarlos!****
+Los **crampones** son unos dispositivos metálicos y puntiagudos que se acoplan a las **botas** y **mejoran la adherencia en terrenos nevados o helados**. Forma parte del equipo personal: **un par de crampones por cada miembro del grupo.** Como el piolet, no basta con llevarlos para ser un montañero seguro, **lo importante es... ¡Saber utilizarlos!**
 
