@@ -1,7 +1,8 @@
-# **Planificar la actividad (1 de 34)  
-**
+# Planificar la actividad (1 de 34)  
 
-**![Planifica](./gps_files/Planifica.jpg)Planificar una actividad** **en alta montaña** igual que para senderismo, es siempre una acción **PREVIA** a su realización, y marcará en gran medida el éxito de la misma.
+![Planifica](img/Planifica.jpg)
+
+**Planificar una actividad** **en alta montaña** igual que para senderismo, es siempre una acción **PREVIA** a su realización, y marcará en gran medida el éxito de la misma.
 
 Para planificar correctamente una actividad será necesario:
 
@@ -18,4 +19,3 @@ Para planificar correctamente una actividad será necesario:
 
 **6\.** **Contar **adónde vamos
 
-#### Como federados debéis intentar siempre (varias opciones son posibles):

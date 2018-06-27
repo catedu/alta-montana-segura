@@ -1,6 +1,8 @@
 # Equiparse: Ropa de abrigo y chubasquero (15 de 34)
 
-![Equipa: ropa de abrigo](./gps_files/3925801840_66404acfd5.jpg)En alta montaña es imprescindible **llevar siempre, incluso en verano, prendas que protejan del frío, del agua y del viento**.
+![Equipa: ropa de abrigo](img/3925801840_66404acfd5.jpg)
+
+En alta montaña es imprescindible **llevar siempre, incluso en verano, prendas que protejan del frío, del agua y del viento**.
 
 Las oscilaciones térmicas a esas alturas son siempre importantes, incluso en verano, y resulta muy fácil que la Isoterma cero se sitúe en algún momento del día o de la noche por debajo de la cota máxima de la excursión.  
 
@@ -18,4 +20,3 @@ Unos **guantes finos** tendrán siempre su hueco en la mochila: temperaturas baj
 
 Y recordad: ¡las primeras **nevadas** en el Pirineo siempre suelen caer en el mes de **agosto**!  
 
-#### Como** federados**, no hay que olvidar que...

@@ -1,6 +1,8 @@
 # Planifica: Calcula los horarios MIDE (7 de 34)
 
-![MIDE](./gps_files/herramientamide.JPG)El MIDE también sirve para el cálculo de horarios en recorridos de alta montaña.
+![MIDE](img/herramientamide.JPG)
+
+El MIDE también sirve para el cálculo de horarios en recorridos de alta montaña.
 
 Os recordamos cómo se calculan los **tiempos MIDE**:  
 
@@ -13,4 +15,3 @@ Os recordamos cómo se calculan los **tiempos MIDE**:
 **2\. Elegir el horario mayor y añadir la mitad del otro.**  
 **3\. Redondear usando el sentido común** y teniendo en cuenta detalles tales como cruces de ríos, tramos difíciles que requieren tiempo y esfuerzo pero no se avanza, pendientes muy favorables a la progresión, sendas estrechas pero rectas y lisas, etc.  
 
-#### Os proponemos otro ejemplo, vamos a calcular el horario de una ascensión en la que hacemos 1200 m de desnivel positivo y 6 km de ida por terreno de alta montaña. Si calculamos el horario MIDE (horarios de IDA y VUELTA o excursión completa), tendríamos un tiempo de ¿cuántas horas?

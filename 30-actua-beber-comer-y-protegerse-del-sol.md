@@ -1,6 +1,8 @@
 # Actúa: Beber, comer y protegerse del sol (30 de 34)
 
-![Actúa: agua, comida y sol](./gps_files/bebeagua.JPG)El ejercicio físico y el contacto con el medio aumentan el metabolismo y será necesario un mayor aporte de agua y de energía.
+![Actúa: agua, comida y sol](img/bebeagua.JPG)
+
+El ejercicio físico y el contacto con el medio aumentan el metabolismo y será necesario un mayor aporte de agua y de energía.
 
 El sol da calor y luz pero también radiaciones que pueden dañar la piel y los ojos.
 
@@ -12,4 +14,3 @@ El **sol** puede ser un silencioso enemigo que estropee la jornada provocando in
 
 También conviene recordar que los paisajes o el entorno claro (roca caliza, nieve, masas de agua...) tienen un **efecto espejo** que multiplica la radiación solar.  
 
-#### Como **federados**, hay que recordar que...

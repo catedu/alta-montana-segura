@@ -1,6 +1,8 @@
 # Planifica: Dificultades de la alta montaña (10 de 34)
 
-![Planifica: alta montaña](./gps_files/3924978713_2496bf65b1.jpg)La alta montaña presenta características que le son implícitas y que debemos conocer, pues determinan una parte importante de la dificultad técnica del recorrido.
+![Planifica: alta montaña](img/3924978713_2496bf65b1.jpg)
+
+La alta montaña presenta características que le son implícitas y que debemos conocer, pues determinan una parte importante de la dificultad técnica del recorrido.
 
 Las altitud a la que el montañero se va a mover determina que:
 
@@ -16,4 +18,3 @@ Las altitud a la que el montañero se va a mover determina que:
 
 **6.** Son **actividades exigentes en cuanto a desniveles positivos acumulados y horarios totales**, por lo que requieren de una buena forma física de todo el grupo.
 
-#### Como federados sabéis que una actividad de alta montaña requiere dedicar especial atención a... (Varias opciones son posibles)

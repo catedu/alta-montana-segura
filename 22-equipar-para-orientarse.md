@@ -1,6 +1,8 @@
 # Equipar: Para orientarse (22 de 34)
 
-![Equiparse: orinetación](./gps_files/3924969847_ecbf404043.jpg)**En alta montaña no suele existir señalización explícita para la continuidad** de un itinerario y los cruces con otras trazas.
+![Equiparse: orinetación](img/3924969847_ecbf404043.jpg)
+
+**En alta montaña no suele existir señalización explícita para la continuidad** de un itinerario y los cruces con otras trazas.
 
 Las **habilidades en seguimiento de hitos** o mojones de piedras y la **capacidad de interpretar correctamente los accidentes geográficos** que se tienen a la vista serán fundamentales para garantizar la autonomía del montañero en un recorrido.
 
@@ -18,4 +20,3 @@ Nunca debe olvidarse que como todo aparato electrónico, **el GPS es vulnerable 
 
 **Nuestra responsabilidad como federados y montañeros** es estar habituados a la lectura de mapas y manejo de la brújula.  
 
-#### De un mapa se puede extraer la siguiente información:

@@ -1,6 +1,8 @@
 # Equipa: Preparados para la nieve: otro material técnico (18 de 34)
 
-![Equipa: Material técnico](./gps_files/crampones.JPG)Si en la excursión planificada **hay que pisar nieve ello exige a cada montañero llevar en su equipo personal el material adecuado: piolet y crampones**, así como tener formación y experiencia en su manejo.
+![Equipa: Material técnico](img/crampones.JPG)
+
+Si en la excursión planificada **hay que pisar nieve ello exige a cada montañero llevar en su equipo personal el material adecuado: piolet y crampones**, así como tener formación y experiencia en su manejo.
 
 Muchos rescates en nieve se producen cuando un tropezón o el cansancio provocan una caída sobre la nieve y la falta de material y experiencia impiden que el montañero se auto detenga, así que ¡buen equipo y formación pueden salvar vidas!
 
@@ -10,4 +12,3 @@ Y aún así, **no basta con llevarlo para ser un montañero seguro**, lo importa
 
 Los **crampones** son unos dispositivos metálicos y puntiagudos que se acoplan a las **botas** y **mejoran la adherencia en terrenos nevados o helados**. Forma parte del equipo personal: **un par de crampones por cada miembro del grupo.** Como el piolet, no basta con llevarlos para ser un montañero seguro, **lo importante es... **¡Saber utilizarlos!****
 
-#### Como federado, debes llevar piolet y crampones siempre que...

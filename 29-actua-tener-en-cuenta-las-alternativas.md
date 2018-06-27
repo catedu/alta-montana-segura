@@ -1,6 +1,8 @@
 # Actúa: Tener en cuenta las alternativas (29 de 34)
 
-![Actúa: Alternativas](./gps_files/salterillo_desde_portillon.jpg)Hay que recordar que lo importante es disfrutar del día, y si no se puede hacer una actividad hoy ya se hará mañana.
+![Actúa: Alternativas](img/salterillo_desde_portillon.jpg)
+
+Hay que recordar que lo importante es disfrutar del día, y si no se puede hacer una actividad hoy ya se hará mañana.
 
 Como **federados** habremos proporcionado un plan alternativo a la actividad de alta montaña inicial. Debemos recordar "usarlo" si las circunstancias sobre el terreno lo aconsejan.
 
@@ -19,4 +21,3 @@ Porque la realidad es que conforme avance el día:
 
 Además, **hay que tener siempre en cuenta el regreso**, que muchas veces se minusvalora o incluso se olvida y puede ser casi tan largo y cansado como la ida
 
-#### Como **federados** pondremos especial atención en... (Varias opciones son posibles)

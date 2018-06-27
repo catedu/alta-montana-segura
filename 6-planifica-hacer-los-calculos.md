@@ -1,6 +1,8 @@
 # Planifica: Hacer los cálculos (6 de 34)
 
-![Planifica - Hacer cálculos](./gps_files/HAZ_CALCULOS.jpg)Para **calcular los datos básicos de una excursión** necesitaremos lo mismo que para senderismo
+![Planifica - Hacer cálculos](img/HAZ_CALCULOS.jpg)
+
+Para **calcular los datos básicos de una excursión** necesitaremos lo mismo que para senderismo
 
 **A. Mapade la zona**, cuanto más detallado y actualizado mejor (escala 1:25.000, 1:40.000)
 
@@ -19,4 +21,3 @@ Muy importante: hay quecalcular el**horario de ida**y el**horario de vuelta**...
 
 En alta montaña son más importantes que nunca los **h****orarios intermedios**: de conocer estos horarios y tenerlos en cuenta dependerá una correcta toma de decisiones sobre el terreno (darse la vuelta, cambiar el destino, etc.).
 
-#### En resumen, ¿qué información debemos obtener de forma clara y con qué fin?

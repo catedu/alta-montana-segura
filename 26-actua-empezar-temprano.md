@@ -1,6 +1,8 @@
 # Actúa: Empezar temprano (26 de 34)
 
-![Actúa: horario](./gps_files/EMPIEZA.jpg)La **hora  de inicio** de la actividad debe guardar relación con el **tiempo total para realizarla**, el **tipo de grupo** con el que se vaya y la **previsión meteorológica**.
+![Actúa: horario](img/EMPIEZA.jpg)
+
+La **hora  de inicio** de la actividad debe guardar relación con el **tiempo total para realizarla**, el **tipo de grupo** con el que se vaya y la **previsión meteorológica**.
 
 No siempre es necesario madrugar mucho, pero con el objetivo de que un imprevisto no obligue a pasar la noche en la montaña debemos calcular que **entre el horario de regreso y la puesta del sol haya un mínimo de 5-6 horas de diferencia**.  
 
@@ -11,4 +13,3 @@ No siempre es necesario madrugar mucho, pero con el objetivo de que un imprevist
 
 Como **federados**,**debéis intentar que el iniciar la actividad temprano**.
 
-#### Si ello ya no es posible: porque estáis planteando una actividad de alta montaña a una hora en la que ya no consideráis prudente iniciarla, debéis actuar de la siguiente manera:

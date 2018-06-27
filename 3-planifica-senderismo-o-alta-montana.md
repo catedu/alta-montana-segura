@@ -15,4 +15,3 @@ En este curso, vamos a considerar que las actividades en alta montaña son aqué
 
 No existe una categorización exacta de dónde está la diferencia entre el senderismo y la alta montaña, pero seguro que cada uno de vosotros tiene presente, si una actividad pertenece a un grupo o a otro.
 
-#### Como federados: si tenéis que planificar una actividad de alta montaña creéis que... (Varias opciones son posibles)

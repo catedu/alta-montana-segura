@@ -1,6 +1,8 @@
 # Equipa: El botiquín (21 de 34)
 
-![Equipa: Botiquin](./gps_files/BOTIQUIN.jpg)**Recordemos lo dicho en el curso de senderismo, pues este punto es importante.**
+![Equipa: Botiquin](img/BOTIQUIN.jpg)
+
+**Recordemos lo dicho en el curso de senderismo, pues este punto es importante.**
 
 Un botiquín de campaña pesa y ocupa poco pero puede ser de gran utilidad. Permite afrontar contratiempos bastante habituales como:
 
@@ -57,4 +59,3 @@ Para prevenir otros problemas:
 
 Entre los montañeros que salen a la alta montaña es más común llevar un pequeño botiquín, pero para aquéllos que os resistís a llevarlo** recordad lo lejos que estaréis de un centro de salud o incluso de un punto desde el que poder pedir ayuda, así que todo lo que aporte autosuficiencia debería tener su hueco en la mochila.**  
 
-#### De todo lo que recomendamos llevar en un botiquín, ¿qué elemento no deberíamos dejar de llevar nunca pues puede salvar vidas si acaso sucede un accidente que precise rescate? (una opción posible)

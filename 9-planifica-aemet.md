@@ -1,6 +1,8 @@
 # Planifica: Predicción de Montaña de la AEMET (9 de 34)
 
-![AEMET](./gps_files/recursos-el-tiempo-atmosferico-L-wEKXNg.jpeg)Como montañeros es importante estar habituado, si no lo está ya, con la **predicción de montaña de la [AEMET](http://www.aemet.es/es/eltiempo/prediccion/montana "AEMET predicción montaña")**, pues sólo este parte aporta información que es fundamental conocer para el que se dirige a la alta montaña.  
+![AEMET](img/recursos-el-tiempo-atmosferico-L-wEKXNg.jpeg)
+
+Como montañeros es importante estar habituado, si no lo está ya, con la **predicción de montaña de la [AEMET](http://www.aemet.es/es/eltiempo/prediccion/montana "AEMET predicción montaña")**, pues sólo este parte aporta información que es fundamental conocer para el que se dirige a la alta montaña.  
 
 Conocer el parte meteorológico permite tomar decisiones acertadas sobre el terreno.
 
@@ -25,4 +27,3 @@ Conocer el parte meteorológico permite tomar decisiones acertadas sobre el terr
   
 \- Finalmente se presenta un resumen de la **POSIBLE EVOLUCIÓN METEOROLÓGICA A TRES DÍAS VISTA**.
 
-#### La AEMET ofrece una serie de datos que tienen un gran valor para la seguridad del montañero:
