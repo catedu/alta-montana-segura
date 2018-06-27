@@ -1,293 +1,256 @@
 ::1:: Como federados debéis intentar siempre (varias opciones son posibles): {
-preparar a conciencia la actividad, pues es fundamental conocer todas las variables que te pueden afectar
-la planificación es fundamental.
-evitar ir a lugares donde suceden frecuentes rescates, independientemente de vuestra capacidad
-el elevado número de rescates que se dan en según qué recorridos viene provocado muchas veces por el elevado número de montañeros que los frecuentan, no tanto por su dificultad o peligrosidad
-elaborar por nosotros mismos la información que necesitemos conocer (horarios, metros de desnivel, alternativas) pues de esta manera tomaremos conciencia de lo que nos espera
-cuanto más te involucres en la preparación de la actividad, más fácil será que después puedas tomar decisiones correctas y elaborar planes alternativos
-adquirir una idea muy clara de qué puedes y qué no puedes hacer, en función de lo que otros te digan
-no conviene que nadie te diga lo que puedes o no hacer, pues esa es tu responsabilidad
+=Preparar a conciencia la actividad, pues es fundamental conocer todas las variables que te pueden afectar
+#la planificación es fundamental.
+~evitar ir a lugares donde suceden frecuentes rescates, independientemente de vuestra capacidad
+#el elevado número de rescates que se dan en según qué recorridos viene provocado muchas veces por el elevado número de montañeros que los frecuentan, no tanto por su dificultad o peligrosidad
+=elaborar por nosotros mismos la información que necesitemos conocer (horarios, metros de desnivel, alternativas) pues de esta manera tomaremos conciencia de lo que nos espera
+#cuanto más te involucres en la preparación de la actividad, más fácil será que después puedas tomar decisiones correctas y elaborar planes alternativos
+~adquirir una idea muy clara de qué puedes y qué no puedes hacer, en función de lo que otros te digan
+#no conviene que nadie te diga lo que puedes o no hacer, pues esa es tu responsabilidad
 }
 
 ::2:: Como federado, ¿qué fórmula te parece más acertada si se da esta situación? {
-Recopilar todos los datos objetivos del recorrido (horarios, metros de desnivel, distancia, dificultades técnicas, etc.)  y comparar datos de otras actividades que conozcas. Una vez tienes la información decidir de forma objetiva si estas capacitado para hacer esa actividad
-esto es lo que conviene hacer
-No informarse de forma objetiva respecto a la actividad (horarios, metros de desdesnivel, distancia, dificultades técnicas, etc..) y confiar en lo que has escuchado y en lo que me te han dicho otros montañeros.
-es necesario informarse respecto a la actividad, y ser uno mismo el que valores de forma objetiva si esta preparado o no para realizar la actividad con seguridad.
+=Recopilar todos los datos objetivos del recorrido (horarios, metros de desnivel, distancia, dificultades técnicas, etc.)  y comparar datos de otras actividades que conozcas. Una vez tienes la información decidir de forma objetiva si estas capacitado para hacer esa actividad
+#esto es lo que conviene hacer
+~No informarse de forma objetiva respecto a la actividad (horarios, metros de desdesnivel, distancia, dificultades técnicas, etc..) y confiar en lo que has escuchado y en lo que me te han dicho otros montañeros.
+#es necesario informarse respecto a la actividad, y ser uno mismo el que valores de forma objetiva si esta preparado o no para realizar la actividad con seguridad.
 }
 
 ::3:: Como federados: si tenéis que planificar una actividad de alta montaña creéis que... (Varias opciones son posibles) {
-Debes dedicarle un tiempo especial pues en alta montaña suceden muchos de los accidentes de mayor gravedad
-todo el tiempo que invirtamos en planificar mejorará la seguridad durante la actividad
-No debes prestar especial atención en la planificación de este tipo de actividades
-aunque tengas experiencia, muchos accidentes suceden por una falta de atención sobre lo que ya se sabe o una sobrevaloración de las capacidades de uno, conviene en estos casos RECORDAR lo que ya se sabe
-Es mejor no hacer alta montaña pues por definición es muy peligrosa y son muy pocos los que están capacitados para ir allí
-las rutas no son peligrosas en sí mismas, lo que es "peligrosa" es la actitud de la gente al acometer según qué recorridos
-Debes recordar todos los aspectos habituales de senderismo, prestando especial atención a aquéllos que mayor incidencia tienen en la seguridad durante una actividad de alta montaña (actividad, equipo, meteo, toma de decisiones acertada...)
-la seguridad en alta montaña depende, como en senderismo, de seguir cuatro pautas sencillas, pero no pueden olvidarse estas pautas
+=Debes dedicarle un tiempo especial pues en alta montaña suceden muchos de los accidentes de mayor gravedad
+#todo el tiempo que invirtamos en planificar mejorará la seguridad durante la actividad
+~No debes prestar especial atención en la planificación de este tipo de actividades
+#aunque tengas experiencia, muchos accidentes suceden por una falta de atención sobre lo que ya se sabe o una sobrevaloración de las capacidades de uno, conviene en estos casos RECORDAR lo que ya se sabe
+~Es mejor no hacer alta montaña pues por definición es muy peligrosa y son muy pocos los que están capacitados para ir allí
+#las rutas no son peligrosas en sí mismas, lo que es "peligrosa" es la actitud de la gente al acometer según qué recorridos
+=Debes recordar todos los aspectos habituales de senderismo, prestando especial atención a aquéllos que mayor incidencia tienen en la seguridad durante una actividad de alta montaña (actividad, equipo, meteo, toma de decisiones acertada...)
+#la seguridad en alta montaña depende, como en senderismo, de seguir cuatro pautas sencillas, pero no pueden olvidarse estas pautas
 }
 
 ::4:: Como federado, a la hora de elegir un itienerario, no solo tienes que pensar en tu nivel físico y técnico, si no en el del resto del grupo. Deberas además implicar al resto del grupo en la toma de decisiones. ¿Cómo lo conseguirás? {
-Realizando una común de todo el grupo sobre las motivaciones y/o ganas de realizar esa actividad, y asegurarse que  todo el grupo tiene los datos objetivos que deben conocer para un correcto conocimiento de la actividad
-involucrar a todos en la información, permitirá que una vez en el monte todos hagan uso de su voz y participen en la toma de decisiones.
-Confiar en el líder del grupo pues será él quien tome las decisiones finales
-el cabeza del grupo decidirá por todos, y si el resto del grupo no tiene la información suficiente no podrá replicarle llegado el caso de que no estén de acuerdo
+=Realizando una común de todo el grupo sobre las motivaciones y/o ganas de realizar esa actividad, y asegurarse que  todo el grupo tiene los datos objetivos que deben conocer para un correcto conocimiento de la actividad
+#involucrar a todos en la información, permitirá que una vez en el monte todos hagan uso de su voz y participen en la toma de decisiones.
+~Confiar en el líder del grupo pues será él quien tome las decisiones finales
+#el cabeza del grupo decidirá por todos, y si el resto del grupo no tiene la información suficiente no podrá replicarle llegado el caso de que no estén de acuerdo
 }
 
 ::5:: Como federado, señala qué fuentes utilizarias y/o recomendarías (varias opciones son posibles): {
-Webs comarcales y turísticas
-normalmente estas Webs tienen información sobre actividades senderistas, pero no de alta montaña
-Blogs y webs de otros excursionistas
-si no se "conoce" al autor de los blogs es muy difícil saber si se trata de un experto montañero para el que todo es "fácil" o de un inexperto senderista para el que todo es "difícil"
-Libros y guías
-allí suele estar la información "estática" más segura, aunque en ocasiones el autor también puede ser del grupo de expertos (para los que todo es "fácil") o del grupo de inexpertos (para los que todo es "difícil")
-Webs especializadas que nos merezcan confianza
-si nos merecen confianza podemos contar con esta fuente informativa, pues suelen disponer de información más actualizada que muchos de los libros publicados
+~Webs comarcales y turísticas
+#normalmente estas Webs tienen información sobre actividades senderistas, pero no de alta montaña
+~Blogs y webs de otros excursionistas
+#si no se "conoce" al autor de los blogs es muy difícil saber si se trata de un experto montañero para el que todo es "fácil" o de un inexperto senderista para el que todo es "difícil"
+=Libros y guías
+#allí suele estar la información "estática" más segura, aunque en ocasiones el autor también puede ser del grupo de expertos (para los que todo es "fácil") o del grupo de inexpertos (para los que todo es "difícil")
+=Webs especializadas que nos merezcan confianza
+#si nos merecen confianza podemos contar con esta fuente informativa, pues suelen disponer de información más actualizada que muchos de los libros publicados
 }
 
 ::6:: En resumen, ¿qué información debemos obtener de forma clara y con qué fin? {
-Horarios intermedios, por lo menos dos, para...
-...una toma de decisiones adecuada (darse la vuelta, alternativa más corta)
-Horarios completos de ida y vuelta del recorrido para...
-...tener claro en todo momento cuánto tiempo queda por delante
-Hacer los cálculos de horario y desniveles aporta importante información pero...
-...no es suficiente: las dificultades técnicas y del medio son importantes en alta montaña
-Los mapas permiten averiguar muchas cosas sobre una ruta pero...
-...otras sólo se pueden saber leyendo descripciones y libros
+=Horarios intermedios, por lo menos dos, para... -> ...una toma de decisiones adecuada (darse la vuelta, alternativa más corta)
+=Horarios completos de ida y vuelta del recorrido para... -> ...tener claro en todo momento cuánto tiempo queda por delante
+=Hacer los cálculos de horario y desniveles aporta importante información pero... -> ...no es suficiente: las dificultades técnicas y del medio son importantes en alta montaña
+=Los mapas permiten averiguar muchas cosas sobre una ruta pero... -> ...otras sólo se pueden saber leyendo descripciones y libros
 }
 
 ::7:: Os proponemos otro ejemplo, vamos a calcular el horario de una ascensión en la que hacemos 1200 m de desnivel positivo y 6 km de ida por terreno de alta montaña. Si calculamos el horario MIDE (horarios de IDA y VUELTA o excursión completa), tendríamos un tiempo de ¿cuántas horas? {
-8 horas
-Incorrecto, son 7 horas. 1.200 m de subir + 1.200 m de bajar suponen 3h+2h=5h. 6
-km de ida + 6 km de vuelta por alta montaña (3km/h) suponen 2h+2h=4h. El tiempo mayor más la mitad del más pequeño son 5h+(4h/2)=7horas
-7 horas
-8 horas 30 minutos
-Incorrecto, son 7 horas. 1.200 m de subir + 1.200 m de bajar suponen 3h+2h=5h. 6 km de ida + 6 km de vuelta por alta montaña (3km/h) suponen 2h+2h=4h. El tiempo mayor más la mitad del más pequeño son 5h+(4h/2)=7horas
-7 horas 30 minutos
-Incorrecto, son 7 horas. 1.200 m de subir + 1.200 m de bajar suponen 3h+2h=5h. 6 km de ida + 6 km de vuelta por alta montaña (3km/h) suponen 2h+2h=4h. El tiempo mayor más la mitad del más pequeño son 5h+(4h/2)=7horas
+~8 horas
+#Incorrecto, son 7 horas. 1.200 m de subir + 1.200 m de bajar suponen 3h+2h=5h. 6 km de ida + 6 km de vuelta por alta montaña (3km/h) suponen 2h+2h=4h. El tiempo mayor más la mitad del más pequeño son 5h+(4h/2)=7horas
+=7 horas
+~8 horas 30 minutos
+#Incorrecto, son 7 horas. 1.200 m de subir + 1.200 m de bajar suponen 3h+2h=5h. 6 km de ida + 6 km de vuelta por alta montaña (3km/h) suponen 2h+2h=4h. El tiempo mayor más la mitad del más pequeño son 5h+(4h/2)=7horas
+~7 horas 30 minutos
+#Incorrecto, son 7 horas. 1.200 m de subir + 1.200 m de bajar suponen 3h+2h=5h. 6 km de ida + 6 km de vuelta por alta montaña (3km/h) suponen 2h+2h=4h. El tiempo mayor más la mitad del más pequeño son 5h+(4h/2)=7horas
 
 ::8:: Como federados, debéis consultar la información y previsión meteorológica, porque... {
-...condiciones meteorológicas adversas han sido factores determinantes en muchos rescates por extravíos, agotamientos, hipotermias, etc.
-la meteo es la causa indirecta o directa de muchos de los rescates
-...el tiempo es el único factor variable de la montaña, todo lo demás sabemos que estará siempre tal como lo indican los libros
-hay otros factores que son variables en la montaña (caída de rocas, puentes movidos por caudales extremos en los barrancos, etc.)
+=...condiciones meteorológicas adversas han sido factores determinantes en muchos rescates por extravíos, agotamientos, hipotermias, etc.
+#la meteo es la causa indirecta o directa de muchos de los rescates
+~...el tiempo es el único factor variable de la montaña, todo lo demás sabemos que estará siempre tal como lo indican los libros
+#hay otros factores que son variables en la montaña (caída de rocas, puentes movidos por caudales extremos en los barrancos, etc.)
 }
 
 ::9:: La AEMET ofrece una serie de datos que tienen un gran valor para la seguridad del montañero: {
-Un parte diario con previsión detallada para el día siguiente...
-...y avance de la situación a tres días vista más
-Previsión de temperaturas máximas,  mínimas y con sensación térmica...
-...para prever el frío que sentirá el montañero
-Previsión de tormentas....
-....para prever posibles problemas con caída de rayos
-Altitud de la isoterma 0 y 0ºC...
-...para conocer a qué altura helará
+=Un parte diario con previsión detallada para el día siguiente... -> ...y avance de la situación a tres días vista más
+=Previsión de temperaturas máximas,  mínimas y con sensación térmica... -> ...para prever el frío que sentirá el montañero
+=Previsión de tormentas.... -> ....para prever posibles problemas con caída de rayos
+=Altitud de la isoterma 0 y 0ºC... -> ...para conocer a qué altura helará
 }
 
 ::10:: Como federados sabéis que una actividad de alta montaña requiere dedicar especial atención a... (Varias opciones son posibles) {
-Debes conocer y transmitir a tus compañeros las características técnicas del itinerario (trepadas, pasos por nieve o glaciar, tramos sin señalización de ningún tipo, etc.), para garantizar que todo el grupo conoce bien a dónde se dirige
-conocer las particularidades del itinerario nos permitirá saber mejor qué nos vamos a encontrar y estar preparados.
-Horarios y metros de desnivel (totales y parciales) para garantizar una correcta toma de decisiones.
-Es calve conocer los desniveles y los horarios
-Habilidades en el manejo e interpretación de mapas, pues ellas determinarán saber interpretar en todo momento donde estás y cuánto te queda
-Es de vital  importancia saber leer un mapa para la correcta toma de decisiones
-Conocer los horarios parciales y actividades alternativas para poder tomar decisiones importantes sobre la marcha (darse la vuelta, cambiar de actividad)
-un plan alternativo nos permite reconducir la actividad en el caso de que eso sea lo prudente
+=Debes conocer y transmitir a tus compañeros las características técnicas del itinerario (trepadas, pasos por nieve o glaciar, tramos sin señalización de ningún tipo, etc.), para garantizar que todo el grupo conoce bien a dónde se dirige
+#conocer las particularidades del itinerario nos permitirá saber mejor qué nos vamos a encontrar y estar preparados.
+=Horarios y metros de desnivel (totales y parciales) para garantizar una correcta toma de decisiones.
+#Es calve conocer los desniveles y los horarios
+=Habilidades en el manejo e interpretación de mapas, pues ellas determinarán saber interpretar en todo momento donde estás y cuánto te queda
+#Es de vital  importancia saber leer un mapa para la correcta toma de decisiones
+=Conocer los horarios parciales y actividades alternativas para poder tomar decisiones importantes sobre la marcha (darse la vuelta, cambiar de actividad)
+#un plan alternativo nos permite reconducir la actividad en el caso de que eso sea lo prudente
 }
 
 ::11:: Por lo tanto, un plan alternativo sirve para... {
-Poder cambiar de objetivo a mitad de itinerario y disfrutar de otra excursión más sencilla y segura
-un plan alternativo es fundamental para reconducir actividades
-Dividir al grupo cuando la mitad no va bien, para que no retrase a la otra mitad
-no conviene dividir al grupo salvo que sea imprescindible: si han salido juntos lo ideal es que regresen juntos
+=Poder cambiar de objetivo a mitad de itinerario y disfrutar de otra excursión más sencilla y segura
+#un plan alternativo es fundamental para reconducir actividades
+~Dividir al grupo cuando la mitad no va bien, para que no retrase a la otra mitad
+#no conviene dividir al grupo salvo que sea imprescindible: si han salido juntos lo ideal es que regresen juntos
 }
 
 ::12:: Con esta información... {
-Podréis ser buscados por los grupos de rescate si se da el caso.
-Los familiares sabrán dónde os encontráis.
-el objetivo principal de dejar un aviso es poder avisar a los grupos de rescate si llega el caso
+=Podréis ser buscados por los grupos de rescate si se da el caso.
+~Los familiares sabrán dónde os encontráis.
+#el objetivo principal de dejar un aviso es poder avisar a los grupos de rescate si llega el caso
 }
 
 ::13:: Pero debemos recordar que un guía permitirá... {
-...realizar actividades en alta montaña de manera controlada y siguiendo todas las pautas de seguridad
-...acometer actividades peligrosas sin riesgo alguno, ya que es él quien nos lleva y asume todas las dificultades
-el riesgo cero no existe, pero el guía realiza la actividad de manera controlada y siguiendo las pautas de seguridad apropiadas
+=...realizar actividades en alta montaña de manera controlada y siguiendo todas las pautas de seguridad
+~...acometer actividades peligrosas sin riesgo alguno, ya que es él quien nos lleva y asume todas las dificultades
+#el riesgo cero no existe, pero el guía realiza la actividad de manera controlada y siguiendo las pautas de seguridad apropiadas
 }
 
 ::14:: Como federados, deberéis tener en cuenta que... (Varias opciones son posibles) {
-En alta montaña las cosas que se llevan en la mochila pueden salvar la vida, pues se está a una distancia del coche y de los posibles medios de ayuda lo que impide que ante una emergencia la asistencia no sea tan rápida como en otros lugares
-Hay material que no siempre se usa aunque se recomienda, ese se puede dejar en casa si ya se va muy cargado
-ese material es por seguridad, si no se usa querrá decir que todo ha ido bien, pero el no llevarlo supone que ante un imprevisto se tenga menos capacidad de reacción
-Si se es hábil y se tiene experiencia en alta montaña, cualquier calzado con el que se esté cómodo puede valer...
-un calzado de caña baja que deje el tobillo al aire no es seguro
-Si ya se conoce la zona o el recorrido, el mapa puede no ser necesario y se puede dejar en casa
-condiciones de niebla, lluvia o que se eche la noche encima pueden hacerte perder la orientación, siempre conviene llevar mapa y brújula, aún cuando se conoce bien el itinerario
+=En alta montaña las cosas que se llevan en la mochila pueden salvar la vida, pues se está a una distancia del coche y de los posibles medios de ayuda lo que impide que ante una emergencia la asistencia no sea tan rápida como en otros lugares
+~Hay material que no siempre se usa aunque se recomienda, ese se puede dejar en casa si ya se va muy cargado
+#ese material es por seguridad, si no se usa querrá decir que todo ha ido bien, pero el no llevarlo supone que ante un imprevisto se tenga menos capacidad de reacción
+~Si se es hábil y se tiene experiencia en alta montaña, cualquier calzado con el que se esté cómodo puede valer...
+#un calzado de caña baja que deje el tobillo al aire no es seguro
+~Si ya se conoce la zona o el recorrido, el mapa puede no ser necesario y se puede dejar en casa
+#condiciones de niebla, lluvia o que se eche la noche encima pueden hacerte perder la orientación, siempre conviene llevar mapa y brújula, aún cuando se conoce bien el itinerario
 }
 
 ::15:: Como federados, no hay que olvidar que... {
-Siempre debe llevarse ropa de abrigo y cortavientos, incluso cuando en pleno verano la previsión sea de buen tiempo y temperaturas altas, pues las oscilaciones térmicas en alta montaña son muy acusadas y frecuentes
-Por el bien de optimizar el peso de la mochila y no cargar con cosas innecesarias, sólo llevaremos ropa de abrigo o cortavientos cuando la previsión meteorológica nos haga pensar que puede ser necesario su uso, algo que en verano no es muy frecuente
-el tiempo en montaña es muy variable y pueden suceder descensos térmicos importantes en muy poco tiempo y sin previo aviso
+=Siempre debe llevarse ropa de abrigo y cortavientos, incluso cuando en pleno verano la previsión sea de buen tiempo y temperaturas altas, pues las oscilaciones térmicas en alta montaña son muy acusadas y frecuentes
+~Por el bien de optimizar el peso de la mochila y no cargar con cosas innecesarias, sólo llevaremos ropa de abrigo o cortavientos cuando la previsión meteorológica nos haga pensar que puede ser necesario su uso, algo que en verano no es muy frecuente
+#el tiempo en montaña es muy variable y pueden suceder descensos térmicos importantes en muy poco tiempo y sin previo aviso
 }
 
 ::16:: Un calzado de alta montaña debe cumplir: {
-Permitir incorporar crampones...
-...por si hay que transitar por neveros o glaciares
-Que protejan el tobillo para evitar...
-...que una piedra o un tropezón nos lesione
-Que tengan una suela con buen agarre o dibujo para que...
-...sobre todo tipo de terrenos nuestros pasos sean seguros
-Que tenga algún tratamiento impermeable para que...
-...en caso de lluvia o paso por nieve o glaciar la bota no se empape
+=Permitir incorporar crampones... -> ...por si hay que transitar por neveros o glaciares
+=Que protejan el tobillo para evitar... -> ...que una piedra o un tropezón nos lesione
+=Que tengan una suela con buen agarre o dibujo para que... -> ...sobre todo tipo de terrenos nuestros pasos sean seguros
+=Que tenga algún tratamiento impermeable para que... -> ...en caso de lluvia o paso por nieve o glaciar la bota no se empape
 }
 
 ::17:: Como montañeros, debemos saber que los bastones... {
-...no forman parte del equipo imprescindible que debe llevar todo montañero, pero si se usan correctamente pueden evitar lesiones, sobrecargas y accidentes por tropiezos o caídas, muy habituales en los descensos de las rutas largas y exigentes
-...deberían llevarse siempre pues sin ellos no es prudente salir a caminar. Evitan accidentes, sobrecargas y tropiezos
-no son imprescindibles y mucha gente camina sin ellos sin que ello suponga un mayor riesgo
+=...no forman parte del equipo imprescindible que debe llevar todo montañero, pero si se usan correctamente pueden evitar lesiones, sobrecargas y accidentes por tropiezos o caídas, muy habituales en los descensos de las rutas largas y exigentes
+~...deberían llevarse siempre pues sin ellos no es prudente salir a caminar. Evitan accidentes, sobrecargas y tropiezos
+#no son imprescindibles y mucha gente camina sin ellos sin que ello suponga un mayor riesgo
 }
 
 ::18:: Como federado, debes llevar piolet y crampones siempre que... {
-Siempre que algún tramo de la excursión tenga nieve y no sea posible evitarla, independientemente de su estado
-Siempre que algún tramo de la excursión tenga nieve dura y en longitud importante y no sea posible evitarla
-siempre hay que llevar este material, pues el estado en el que se va a encontrar la nieve depende de muchos factores (horario, temperatura mínima de la noche anterior, etc.) y no se puede prever con antelación
+=Siempre que algún tramo de la excursión tenga nieve y no sea posible evitarla, independientemente de su estado
+~Siempre que algún tramo de la excursión tenga nieve dura y en longitud importante y no sea posible evitarla
+#siempre hay que llevar este material, pues el estado en el que se va a encontrar la nieve depende de muchos factores (horario, temperatura mínima de la noche anterior, etc.) y no se puede prever con antelación
 }
 
 ::19:: No dejéis de tenerlo en cuenta y recordad que... {
-Hay que llevar siempre agua en la mochila...
-...pues en alta montaña es difícil encontrar agua de calidad
-En alta montaña, la comida debe ser...
-...agradable, fácil de transportar y energética
-El agua de deshielo no suele tener....
-...sales suficientes, por lo que al cuerpo le cuesta retenerla
-El agua de los ríos de montaña es de calidad....
-...dudosa, pues muchas veces hay ganado cerca que la contamina
+=Hay que llevar siempre agua en la mochila... -> ...pues en alta montaña es difícil encontrar agua de calidad
+=En alta montaña, la comida debe ser... -> ...agradable, fácil de transportar y energética
+=El agua de deshielo no suele tener.... -> ...sales suficientes, por lo que al cuerpo le cuesta retenerla
+=El agua de los ríos de montaña es de calidad.... -> ...dudosa, pues muchas veces hay ganado cerca que la contamina
 }
 
 ::20:: El sol en la montaña es peligroso porque... {
-Al ser menor la densidad del aire las radiaciones llegan de forma más directa a la piel. Además las habituales brisas de montaña dan una sensación de frescor engañosa
-Al estar más cerca del sol el calor y la radiación que se recibe es mayor
-la distancia al sol no es el factor determinante, lo es la densidad del aire
+=Al ser menor la densidad del aire las radiaciones llegan de forma más directa a la piel. Además las habituales brisas de montaña dan una sensación de frescor engañosa
+~Al estar más cerca del sol el calor y la radiación que se recibe es mayor
+#la distancia al sol no es el factor determinante, lo es la densidad del aire
 }
 
 ::21:: De todo lo que recomendamos llevar en un botiquín, ¿qué elemento no deberíamos dejar de llevar nunca pues puede salvar vidas si acaso sucede un accidente que precise rescate? (una opción posible) {
-La manta térmica, pues permite abrigar y aislar al herido y mantenerle la temperatura corporal
-Los analgésicos fuertes, pues permiten calmar el dolor mientras vienen los grupos de rescate
-es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
-Gasas, vendas y solución antiséptica, pues permiten limpiar heridas y evitar que éstas se infecten
-es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
-Guantes y bisturí, pues permiten hacer una intervención de campaña
-es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
+=La manta térmica, pues permite abrigar y aislar al herido y mantenerle la temperatura corporal
+~Los analgésicos fuertes, pues permiten calmar el dolor mientras vienen los grupos de rescate
+#es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
+~Gasas, vendas y solución antiséptica, pues permiten limpiar heridas y evitar que éstas se infecten
+#es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
+~Guantes y bisturí, pues permiten hacer una intervención de campaña
+#es la manta térmica para abrigar al herido en caso de accidente y mantener su temperatura corporal
 }
 
 ::22:: De un mapa se puede extraer la siguiente información: {
-Distancia entre dos puntos
-A partir de la escala y la distancia sobre el papel
-Desniveles 
-A partir de las curvas de nivel y su equidistancia
-Tipo de sendero
-A partir de las simbología del trazo que lo define
-Fuentes, refugios y puentes
-A partir de los iconos o símbolos que se dibujan en el mapa
+=Distancia entre dos puntos -> A partir de la escala y la distancia sobre el papel
+=Desniveles -> A partir de las curvas de nivel y su equidistancia
+=Tipo de sendero -> A partir de las simbología del trazo que lo define
+=Fuentes, refugios y puentes -> A partir de los iconos o símbolos que se dibujan en el mapa
 }
 
 ::23:: Como federado, conviene que tengas claro cómo y cuándo funciona el servicio de emergencias del 112 (una opción posible): {
-Siempre que haya cobertura de alguna compañía, aunque no sea la nuestra
-Siempre que haya cobertura de nuestra compañía
-es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país
-Siempre, independientemente de la cobertura, pues es satelital
-es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país, pero tiene que haber cobertura de alguna compañía, sino no funciona
-Nunca en zonas de montaña
-es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país
+=Siempre que haya cobertura de alguna compañía, aunque no sea la nuestra
+~Siempre que haya cobertura de nuestra compañía
+#es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país
+~Siempre, independientemente de la cobertura, pues es satelital
+#es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país, pero tiene que haber cobertura de alguna compañía, sino no funciona
+~Nunca en zonas de montaña
+#es siempre que haya cobertura de alguna compañía, aunque no sea la nuestra ni de nuestro país
 }
 
 ::24:: ¿Qué cosas crees que no debería faltar nunca en una mochila de alta montaña? (varias opciones son posibles) {
-Botiquín
-el botiquín siempre puede sernos de utilidad para pequeñas heridas y afecciones o incomodidades
-Agua y comida
-agua y comida necesitaremos siempre para evitar deshidrataciones y agotamientos
-Ropa de abrigo e impermeable
-Ropa de abrigo e impermeable nunca pueden faltar en la mochila por si acaso se da un cambio de tiempo inesperado
-Mapa y teléfono
-Mapa para orientarse y teléfono (apagado, con la batería cargada) para dar aviso siempre deben contar como equipo en la mochila
+=Botiquín
+#el botiquín siempre puede sernos de utilidad para pequeñas heridas y afecciones o incomodidades
+=Agua y comida
+#agua y comida necesitaremos siempre para evitar deshidrataciones y agotamientos
+=Ropa de abrigo e impermeable
+#Ropa de abrigo e impermeable nunca pueden faltar en la mochila por si acaso se da un cambio de tiempo inesperado
+=Mapa y teléfono
+#Mapa para orientarse y teléfono (apagado, con la batería cargada) para dar aviso siempre deben contar como equipo en la mochila
 }
 
 ::25:: Recuerda... {
-Empezar temprano garantizará que ante un imprevisto...
-...se disponga de tiempo necesario para resolverlo
-Consultar el mapa a menudo permite...
-...saber siempre dónde estamos y valorar lo que queda
-Parar a comer y beber evitará...
-...agotamientos y deshidrataciones innecesarias
-La marcha de un grupo la determina...
-...el elemento más vulnerable del mismo
+=Empezar temprano garantizará que ante un imprevisto... -> ...se disponga de tiempo necesario para resolverlo
+=Consultar el mapa a menudo permite... -> ...saber siempre dónde estamos y valorar lo que queda
+=Parar a comer y beber evitará... -> ...agotamientos y deshidrataciones innecesarias
+=La marcha de un grupo la determina... -> ...el elemento más vulnerable del mismo
 }
 
 ::26:: Si ello ya no es posible: porque estáis planteando una actividad de alta montaña a una hora en la que ya no consideráis prudente iniciarla, debéis actuar de la siguiente manera: {
-Reflexionando por qué no es conveniente esa actividad para ese  momento del día, utilizando datos objetivos (desniveles, horarios totales de ida y vuelta, previsión meteorológica...) y proponiéndo otro plan alternativo de menos envergadura que sí podamos llevar a cabo
-buscar estos datos es la manera más objetiva de valorar.
-Reflexionar acerca de la responsabilidad que conlleva y que si pasa algo caerá sobre nuestra conciencia, y que lo que planteamos hacer es una imprudencia de las que acaban en un rescate
-lo mejor es dar conocer los datos objetivos para conseguir hacer una valoración correcta.
+=Reflexionando por qué no es conveniente esa actividad para ese  momento del día, utilizando datos objetivos (desniveles, horarios totales de ida y vuelta, previsión meteorológica...) y proponiéndo otro plan alternativo de menos envergadura que sí podamos llevar a cabo
+#buscar estos datos es la manera más objetiva de valorar.
+~Reflexionar acerca de la responsabilidad que conlleva y que si pasa algo caerá sobre nuestra conciencia, y que lo que planteamos hacer es una imprudencia de las que acaban en un rescate
+#lo mejor es dar conocer los datos objetivos para conseguir hacer una valoración correcta.
 }
 
 ::27:: En general no debemos olvidar nunca que... {
-La velocidad del grupo es...
-...la velocidad que lleva la persona más lenta
-Las paradas a comer y beber son importantes porque...
-...permiten descansar y evitar agotamientos y deshidrataciones
-Si el grupo no progresa a la velocidad esperada...
-...lo mejor es tener en cuenta el plan alternativo o volver otro día
-Cualquier problema en la alta montaña es más delicado...
-...por lo alejado que se está de los puntos de socorro o acceso a coches
+=La velocidad del grupo es... -> ...la velocidad que lleva la persona más lenta
+=Las paradas a comer y beber son importantes porque... -> ...permiten descansar y evitar agotamientos y deshidrataciones
+=Si el grupo no progresa a la velocidad esperada... -> ...lo mejor es tener en cuenta el plan alternativo o volver otro día
+=Cualquier problema en la alta montaña es más delicado... -> ...por lo alejado que se está de los puntos de socorro o acceso a coches
 }
 
 ::28:: Como federados, debéis asumir que... {
-Si un grupo sale junto....
-...debe regresar junto
-Si alguien del grupo no se encuentra bien o no quiere seguir...
-...nunca se le debe dejar solo
-Si una parte del grupo decide no seguir...
-...es mejor darse la vuelta todos y volver otro día
-Si a pesar de todo el grupo se divide...
-...hay que asegurar que las dos partes son autónomas y capaces
+=Si un grupo sale junto.... -> ...debe regresar junto
+=Si alguien del grupo no se encuentra bien o no quiere seguir... -> ...nunca se le debe dejar solo
+=Si una parte del grupo decide no seguir... -> ...es mejor darse la vuelta todos y volver otro día
+=Si a pesar de todo el grupo se divide... -> ...hay que asegurar que las dos partes son autónomas y capaces
 }
 
 ::29:: Como federados pondremos especial atención en... (Varias opciones son posibles) {
-Tener bien presentes las alternativas y escogerlas siempre que se considere oportuno
-Tener en cuenta que la excursión termina en el valle, no en la cima
-Envíen a la mitad del grupo al plan alternativo más corto, pues así todos hacen lo que quieren
-partir al grupo casi siempre supone aumentar la vulnerabilidad de una de las dos mitades. Si han salido todos juntos deben regresar todos juntos
-Realicen la actividad que se ha propuesto, pues a ello han venido
-empecinarse a terminar una actividad puede poner en riesgo al grupo, hay que saber cuándo darse la vuelta
+=Tener bien presentes las alternativas y escogerlas siempre que se considere oportuno
+=Tener en cuenta que la excursión termina en el valle, no en la cima
+~Envíen a la mitad del grupo al plan alternativo más corto, pues así todos hacen lo que quieren
+#partir al grupo casi siempre supone aumentar la vulnerabilidad de una de las dos mitades. Si han salido todos juntos deben regresar todos juntos
+~Realicen la actividad que se ha propuesto, pues a ello han venido
+#empecinarse a terminar una actividad puede poner en riesgo al grupo, hay que saber cuándo darse la vuelta
 }
 
 ::30:: Como federados, hay que recordar que... {
-Descuidar los aspectos como comer cuando se tenga hambre, beber antes de tener sed y protegerse del sol desde el inicio de la actividad pueden producir deshidrataciones, agotamientos e insolaciones no deseadas, hay que actuar siempre antes de que eso suceda 
-Descuidar los aspectos de comer cuando se tenga hambre, beber antes de tener sed y protegerse del sol desde el inicio de la actividad pueden producir deshidrataciones, agotamientos e insolaciones no deseadas, que con una llamada a los grupos de rescate se solucionarán sin problema
-la llamada a los grupos de rescate no debería ser una alternativa a que el grupo haga bien las cosas. Por sentido común, pero también porque nunca se sabe si habrá cobertura o cuánto tardarán en localizar al grupo
+=Descuidar los aspectos como comer cuando se tenga hambre, beber antes de tener sed y protegerse del sol desde el inicio de la actividad pueden producir deshidrataciones, agotamientos e insolaciones no deseadas, hay que actuar siempre antes de que eso suceda 
+~Descuidar los aspectos de comer cuando se tenga hambre, beber antes de tener sed y protegerse del sol desde el inicio de la actividad pueden producir deshidrataciones, agotamientos e insolaciones no deseadas, que con una llamada a los grupos de rescate se solucionarán sin problema
+#la llamada a los grupos de rescate no debería ser una alternativa a que el grupo haga bien las cosas. Por sentido común, pero también porque nunca se sabe si habrá cobertura o cuánto tardarán en localizar al grupo
 }
 
 ::31:: Como federados hay que actuar de la siguiente manera: {
-Si no sabemos "leer mapas" empezaremos diseñando la excursión sobre un mapa, de esta manera nos familiarizamos con ellos y su simbología, aunque hay que recordar que para moverse de forma segura por la alta montaña  es necesario ser hábil en el manejo de mapas, pues en muchos lugares no hay ningún tipo de señalización
-es muy importante "educarse" así que aunque no entendamos los mapas debemos intentar familiarizarnos con ellos
-Si no sabemos "leer mapas" buscaremos la explicacion de la excursión sobre otro soporte (texto, esquema...) pues es perder el tiempo intentar entender algo sobre un soporte que no se comprende. Una vez sobre el terreno ya se aprendera a interpretar el mapa, pues no quedará otra opción
-si no sabemos leer mapas y nunca nos ponemos delante de uno nunca aprenderemos. Debemos "educarnos" en la lectura de mapas
+=Si no sabemos "leer mapas" empezaremos diseñando la excursión sobre un mapa, de esta manera nos familiarizamos con ellos y su simbología, aunque hay que recordar que para moverse de forma segura por la alta montaña  es necesario ser hábil en el manejo de mapas, pues en muchos lugares no hay ningún tipo de señalización
+#es muy importante "educarse" así que aunque no entendamos los mapas debemos intentar familiarizarnos con ellos
+~Si no sabemos "leer mapas" buscaremos la explicacion de la excursión sobre otro soporte (texto, esquema...) pues es perder el tiempo intentar entender algo sobre un soporte que no se comprende. Una vez sobre el terreno ya se aprendera a interpretar el mapa, pues no quedará otra opción
+#si no sabemos leer mapas y nunca nos ponemos delante de uno nunca aprenderemos. Debemos "educarnos" en la lectura de mapas
 }
 
 ::32:: Como federados, conviene que recordar que... {
-La meteo en montaña es muy cambiante...
-...y puede evolucionar a peor de manera rápida y drástica
-Condiciones de frío o lluvia pueden causar...
-...agotamientos e hipotermias, y posibles lesiones o accidentes
-En alta montaña puede ser normal en agosto temperaturas ...
-...mínimas por debajo de cero grados
-Las tormentas con aparato eléctrico son muy peligrosas y hay que evitarlas siempre...
-...por la exposición a la caída de rayos
+=La meteo en montaña es muy cambiante... -> ...y puede evolucionar a peor de manera rápida y drástica
+=Condiciones de frío o lluvia pueden causar... -> ...agotamientos e hipotermias, y posibles lesiones o accidentes
+=En alta montaña puede ser normal en agosto temperaturas ... -> ...mínimas por debajo de cero grados
+=Las tormentas con aparato eléctrico son muy peligrosas y hay que evitarlas siempre... -> ...por la exposición a la caída de rayos
 }
 
 ::33:: Como federado: recuerda siempre... {
-Una vez la ruta llega a la nieve hay que detenerse y valorar la situación. El piolet estará siempre en la mano, y los crampones estarán en los pies si llevarlos hace más seguro el paso
-el piolet siempre en la mano. Llevar sólo los bastones sirve para equilibrar, pero no para auto detenerse en caso de caída. Los crampones sólo si es necesario, pues en nieves muy blandas el crampón puede no agarrar mejor que la bota pero sus pichos pueden producirnos un tropiezo
-Una vez la ruta llega a la nieve hay que detenerse y equiparse. Piolet y crampones estarán siempre en su sitio: mano y pies, independientemente del estado de la nieve
-El piolet sí debe estar en la mano, pero si la nieve está muy blanda y húmeda los crampones no suelen sujetar mejor que las botas, y sí puede darse que por sus pinchos se tenga un tropiezo y una caída
+=Una vez la ruta llega a la nieve hay que detenerse y valorar la situación. El piolet estará siempre en la mano, y los crampones estarán en los pies si llevarlos hace más seguro el paso
+#el piolet siempre en la mano. Llevar sólo los bastones sirve para equilibrar, pero no para auto detenerse en caso de caída. Los crampones sólo si es necesario, pues en nieves muy blandas el crampón puede no agarrar mejor que la bota pero sus pichos pueden producirnos un tropiezo
+~Una vez la ruta llega a la nieve hay que detenerse y equiparse. Piolet y crampones estarán siempre en su sitio: mano y pies, independientemente del estado de la nieve
+#El piolet sí debe estar en la mano, pero si la nieve está muy blanda y húmeda los crampones no suelen sujetar mejor que las botas, y sí puede darse que por sus pinchos se tenga un tropiezo y una caída
 }
